@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bookmarkletsafe",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2215b2a7-5317-4f61-a38e-de2b86f66815",
+      "database_name": "logs-db2"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
